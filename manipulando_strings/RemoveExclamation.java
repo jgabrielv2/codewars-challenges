@@ -1,3 +1,5 @@
+package manipulando_strings;
+
 /**
  * Write function RemoveExclamationMarks which removes all exclamation marks from a given string.
  */

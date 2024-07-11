@@ -1,3 +1,5 @@
+package manipulando_strings;
+
 public class VowelCount {
 
     public static int getCount(String str) {

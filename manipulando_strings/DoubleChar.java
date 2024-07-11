@@ -1,3 +1,5 @@
+package manipulando_strings;
+
 /**
  * Given a string, you have to return a string in which each character (case-sensitive) is repeated once.
  * <p>
